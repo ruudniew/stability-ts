@@ -14,6 +14,7 @@
   "bin": {
     "stability": "build/bin.js"
   },
+  "main": "./build/index.js",
   "keywords": [],
   "author": "Jacob Kelley <jakie8@gmail.com>",
   "license": "MIT",
