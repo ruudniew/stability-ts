@@ -62,9 +62,5 @@
     "read-pkg-up": "^7.0.1",
     "typed-emitter": "^2.1.0",
     "uuid4": "^2.0.3"
-  },
-  "files": [
-    "package.json",
-    "build/**/*"
-  ]
+  }
 }
